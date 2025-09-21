@@ -128,7 +128,7 @@ car-radio-decoder/
 │
 │── main.py                  # FastAPI entrypoint
 │── requirements.txt
-│── README.md
+└── README.md
 ```
 
 ---
