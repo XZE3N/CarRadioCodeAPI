@@ -7,6 +7,8 @@
 A FastAPI-based service for decoding car radio security codes.  
 Supports multiple manufacturers through a **plugin system** – each make has its own decoder package.
 
+👉 Check out the working demo [here](https://carradiocodeapi.azurewebsites.net/).
+
 ---
 
 ## 🚀 Features
